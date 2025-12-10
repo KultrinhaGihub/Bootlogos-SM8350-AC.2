@@ -11,10 +11,10 @@ This is the Bootlogos repository for the **Xpeng**, better known as **Moto G200 
 
 # - FAQ -
 1. Why two repositories from the same family? (SM8350-AC)
-**R**. The difference between the Edge 30 Fusion and the Moto G200/Edge S30 is that the Edge 30 Fusion is 60px larger; in other words, the Edge 30 Fusion has a resolution of 1080x2400, while the G200 has 1080x2460 (basically 60px larger).
+**R**. The difference between the Edge 30 Fusion/Edge S30 Pro and the Moto G200/Edge S30 is that the Edge 30 Fusion is 60px larger; in other words, the Edge 30 Fusion has a resolution of 1080x2400, while the G200 has 1080x2460 (basically 60px larger).
 
 2. Why does it have less bootlogo than repository Bootlogos-SM8350-AC.1?
-**R**. Because these are the most official ROMs I've found, if you want to help me find more official or unofficial ROMs, contact me on Telegram. [Kultrinhaa_](t.me/KultrinhaaKKKK)
+**R**. Because these are the most official ROMs I've found, if you want to help me find more official or unofficial ROMs, contact me on Telegram. [Kultrinhaa_](https://t.me/KultrinhaaKKKK)
 
 # - Requirements -
 - Unlocked Bootloader
