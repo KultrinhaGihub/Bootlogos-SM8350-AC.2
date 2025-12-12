@@ -16,7 +16,7 @@ This is the Bootlogos repository for the **Xpeng**, better known as **Moto G200 
 
 2. Why does it have less bootlogo than repository Bootlogos-SM8350-AC.1?
 
-**R**. Because these are the most official ROMs I've found, if you want to help me find more official or unofficial ROMs, contact me on Telegram. [Kultrinhaa_](https://t.me/KultrinhaaKKKK)
+**R**. Because these are the official ROMs I've found, if you want to help me find more official or unofficial ROMs, contact me on Telegram. [Kultrinhaa_](https://t.me/KultrinhaaKKKK)
 
 # - Requirements -
 - Unlocked Bootloader
