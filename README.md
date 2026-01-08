@@ -9,6 +9,11 @@ This is the Bootlogos repository for the **Xpeng**, better known as **Moto G200 
 | --- | --- | --- | --- |
 | ![logo](https://image2url.com/images/1765377043947-20ad6470-81b5-4c29-a36b-25030f0b030f.png) | ![logo](https://image2url.com/images/1765377080529-8653e91b-051e-4b8a-9c57-6ebbf429a3a0.png) | ![logo](https://image2url.com/images/1765377125086-7dec12cd-94f0-4720-87aa-f11037521048.png) | ![logo](https://image2url.com/images/1765377182841-41558492-2740-4789-8686-15dd687f8ee1.png) |
 
+| Hello UI | OxygenOS (OnePlus logo style 1) | OxygenOS (OnePlus logo style 2) | OxygenOS (Style 1,3) |
+| --- | --- | --- | --- |
+| ![logo](https://github.com/user-attachments/assets/5291bf0e-1693-4cf5-9b61-000444a79ccc) | 
+
+
 # - FAQ -
 1. Why two repositories from the same family? (SM8350-AC)
 
