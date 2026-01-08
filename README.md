@@ -11,7 +11,12 @@ This is the Bootlogos repository for the **Xpeng**, better known as **Moto G200 
 
 | Hello UI | OxygenOS (OnePlus logo style 1) | OxygenOS (OnePlus logo style 2) | OxygenOS (Style 1,3) |
 | --- | --- | --- | --- |
-| ![logo](https://github.com/user-attachments/assets/5291bf0e-1693-4cf5-9b61-000444a79ccc) | 
+| ![logo](https://github.com/user-attachments/assets/5291bf0e-1693-4cf5-9b61-000444a79ccc) | ![logo](https://github.com/user-attachments/assets/47cb4d89-4039-476e-809b-66a9e0b835c5) | ![logo](https://github.com/user-attachments/assets/dcd2fe0e-6dc7-4464-af40-10aac78a1726) | ![logo](https://github.com/user-attachments/assets/7ae7590f-2eab-408b-a60b-d4bccc749255) |
+
+| OxygenOS (Style 2,4) | Soon... | Soon... | Soon... |
+| --- | --- | --- | --- |
+| ![logo](https://github.com/user-attachments/assets/c20677e1-9284-478a-959c-15bc406f4201) | ![logo](https://github.com/user-attachments/assets/3d337ee1-fe9c-4fb0-b6de-df10c496427d) | ![logo](https://github.com/user-attachments/assets/3d337ee1-fe9c-4fb0-b6de-df10c496427d) | ![logo](https://github.com/user-attachments/assets/3d337ee1-fe9c-4fb0-b6de-df10c496427d) |
+
 
 
 # - FAQ -
